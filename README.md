@@ -1,2 +1,2 @@
-# example--semantic-release
+# Example semantic release
 Example semantic release
