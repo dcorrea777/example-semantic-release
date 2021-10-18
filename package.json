@@ -20,8 +20,8 @@
         "master",
         {
             "name": "develop",
-            "channel": "preview",
-            "prerelease": "preview"
+            "channel": "develop",
+            "prerelease": "rc"
         }
     ]
 }
