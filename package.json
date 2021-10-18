@@ -21,7 +21,7 @@
         {
             "name": "develop",
             "channel": "beta",
-            "prerelease": "beta"
+            "prerelease": true
         }
     ]
 }
