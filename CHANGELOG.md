@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/danilocorrea87/example-semantic-release/compare/v1.0.0...v1.1.0) (2021-10-18)
+
+
+### Features
+
+* teste 8 ([8aa13de](https://github.com/danilocorrea87/example-semantic-release/commit/8aa13dec6ad65f9c9ced4c58b4fbdae49425584d))
+
 # 1.0.0 (2021-10-18)
 
 
