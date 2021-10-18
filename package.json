@@ -19,8 +19,8 @@
     "branches": [
         "master",
         {
-            "branch": "develop",
-            "name": "develop",
+            "branch": "beta",
+            "name": "beta",
             "prerelease": true
         }
     ]  
